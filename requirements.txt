@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+psutil
+python-dotenv
+streamlit
+fpdf
+matplotlib
+requests
+plotly
+pywin32; platform_system == "Windows"
+numpy
+reportlab
